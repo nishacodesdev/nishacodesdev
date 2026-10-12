@@ -27,8 +27,6 @@ This profile is where I document what I learn, build projects, practice coding, 
 
 At the moment, I'm focusing on building my foundation:
 
-- Git
-- GitHub
 - 📚 Programming fundamentals
 - 🏗️Software development fundamentals
 - 🔄 Open-source workflow
